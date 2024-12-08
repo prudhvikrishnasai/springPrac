@@ -4,4 +4,7 @@ public class GitPrac {
     static void methods(){
 
     }
+    static void methods1(){
+
+    }
 }
