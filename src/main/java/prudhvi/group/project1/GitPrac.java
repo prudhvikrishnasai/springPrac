@@ -7,4 +7,7 @@ public class GitPrac {
     static void methods1(){
 
     }
+    static void methods2(){
+
+    }
 }
