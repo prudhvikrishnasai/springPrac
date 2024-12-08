@@ -10,6 +10,6 @@ public class GitPrac {
     static void methods2(){
         line one2 by CDRT;
         line two2 by main;
-        line four4 by CDRT;
+        line Three4 by main;
     }
 }
