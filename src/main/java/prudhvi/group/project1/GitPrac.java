@@ -8,6 +8,7 @@ public class GitPrac {
 
     }
     static void methods2(){
-        line one1
+        line one1 by CDRT;
+        line two2 by main
     }
 }
